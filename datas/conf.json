@@ -1,0 +1,38 @@
+{
+    "difficultes": [
+	{
+	    "facile": {
+		"idJoker": 1,
+		"chrono": 30
+	    },
+	    "moyen": {
+		"idJoker": 2,
+		"chrono": 20
+
+	    },
+	    "difficile": {
+		"idJoker": 3,
+		"chrono": 10
+	    }
+	}
+    ]
+    ,
+    "sons": {
+	"sonErreur": "son1",
+	"sonDerniereTentative": "son2"
+    },
+    "police": {
+	"policeTitre": "police1",
+	"policeContenu": "police2"
+    },
+    "points": [
+	{
+	    "typeLettre": "consonne",
+	    "valeur": 10
+	},
+	{
+	    "typeLettre": "voyelle",
+	    "valeur": 5
+	}
+    ]
+}

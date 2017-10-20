@@ -1,0 +1,30 @@
+
+    [
+        {
+          "id":1,
+          "idJoueur":1,
+          "idDifficulte":1,
+          "duree":"1:00s",
+          "score":"50",
+          "nbErreur":2
+        },
+        
+        {
+          "id":2,
+          "idJoueur":1,
+          "idDifficulte":1,
+           "duree":"1:30s",
+          "score":"20",
+          "nbErreur":5
+        },
+        
+        {
+          "id":3,
+          "idJoueur":1,
+          "idDifficulte":1,
+           "duree":"0:30s",
+          "score":"80",
+          "nbErreur":7
+        }
+        
+    ]
